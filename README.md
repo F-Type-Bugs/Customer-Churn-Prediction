@@ -55,7 +55,7 @@ Cross Validation Score: **~0.80**
 
 ## Application Preview
 
-![App Screenshot](images/churn_app_dashboard.png)
+![App Screenshot](images/app_dashboard.png)
 
 ---
 
